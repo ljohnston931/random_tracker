@@ -1,0 +1,15 @@
+- create a push me button that launches a notification in 10 secs
+- work on sideloading this app
+- now cancel that notification in 10 more secs
+- sideload and ensure this works as expected
+- logging screen. just rate 1-5
+- add okay button
+- connect a database and send this info to database
+- random hard coded pdf uniform from 1 to 47 hrs from now
+- side load
+-------
+- alert me more or less often
+- add settings page
+- display pdf in settings
+- add a text box
+- add a way to add more sliders maybe
